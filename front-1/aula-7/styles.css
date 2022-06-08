@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color: burlywood;
+}
+h1 {
+  font-size: 50px;
+  color: blueviolet;
+}
+
+.job-title {
+  background-color: blueviolet;
+  color: beige;
+  font-size: 20px;
+  padding: 18px;
+}
+
+p {
+  margin: 20px;
+}
+
+#high {
+  color: cadetblue;
+  font-size: 20px;
+}
+
+ul {
+  padding: 10px;
+  background-color: blueviolet;
+}
+
